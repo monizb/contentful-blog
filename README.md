@@ -4,6 +4,8 @@
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.
 
 ![The index page of the starter blog](./screenshot.png "The index page of the starter blog")
+<img width="4096" height="1966" alt="response69" src="https://github.com/user-attachments/assets/ad86357b-528b-4b07-82e9-68cf79f53d10" />
+
 
 Static sites are scalable, secure and have very little required maintenance. They come with a drawback though. Not everybody feels good editing files, building a project and uploading it somewhere. This is where Contentful comes into play.
 
