@@ -1,4 +1,5 @@
 # Contentful Gatsby Starter Blog
+<img width="667" height="306" alt="comp_group (1)" src="https://github.com/user-attachments/assets/eda5ef99-ed18-4ff5-ad11-e4f82a5f0b05" />
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.
 
